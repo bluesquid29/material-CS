@@ -1,3 +1,5 @@
+https://hackmd.io/vmrPicrBTS6ir30xqE_UEw?view
+
 # 1 計算機簡介
 ## 1-1 計算機科學大事記
 ## 1-2 當代計算機的通用架構
