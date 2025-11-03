@@ -1,0 +1,890 @@
+[
+    {
+        "title": "Notation1",
+        "pageNumber": 4,
+        "children": []
+    },
+    {
+        "title": "Preface",
+        "pageNumber": 7,
+        "children": []
+    },
+    {
+        "title": "Contents",
+        "pageNumber": 17,
+        "children": []
+    },
+    {
+        "title": "1. Fundamental Principles of Counting",
+        "pageNumber": 25,
+        "children": [
+            {
+                "title": "1.1 The Rules of Sum and Product",
+                "pageNumber": 25,
+                "children": []
+            },
+            {
+                "title": "1.2 Permutations",
+                "pageNumber": 28,
+                "children": []
+            },
+            {
+                "title": "1.3 Combination: The Binomial Theorem",
+                "pageNumber": 36,
+                "children": []
+            },
+            {
+                "title": "1.4 Combinations with Repetition",
+                "pageNumber": 48,
+                "children": []
+            },
+            {
+                "title": "1.5 The Catalan Numbers (Optional)",
+                "pageNumber": 58,
+                "children": []
+            },
+            {
+                "title": "1.6 Summary and Historical Review",
+                "pageNumber": 63,
+                "children": []
+            },
+            {
+                "title": "Supplement Exercises",
+                "pageNumber": 65,
+                "children": []
+            }
+        ]
+    },
+    {
+        "title": "2. Fundamentals of Logic",
+        "pageNumber": 69,
+        "children": [
+            {
+                "title": "2.1 Basic Connectives and Truth Tables",
+                "pageNumber": 69,
+                "children": []
+            },
+            {
+                "title": "2.2 Logical Equivalence: The Laws of Logic",
+                "pageNumber": 77,
+                "children": []
+            },
+            {
+                "title": "2.3 Logical Implication: Rules of Inference",
+                "pageNumber": 89,
+                "children": []
+            },
+            {
+                "title": "2.4 The Use of Quantifers",
+                "pageNumber": 108,
+                "children": []
+            },
+            {
+                "title": "2.5 Quantifers, Definitions, and the Proof of Theorems",
+                "pageNumber": 125,
+                "children": []
+            },
+            {
+                "title": "2.6 Summary and Historical Review",
+                "pageNumber": 139,
+                "children": []
+            },
+            {
+                "title": "Supplementary Exercises",
+                "pageNumber": 142,
+                "children": []
+            }
+        ]
+    },
+    {
+        "title": "3. Set Theory",
+        "pageNumber": 145,
+        "children": [
+            {
+                "title": "3.1 Sets and Subsets",
+                "pageNumber": 145,
+                "children": []
+            },
+            {
+                "title": "3.2 Set Operations and the Laws of Set Theory",
+                "pageNumber": 158,
+                "children": []
+            },
+            {
+                "title": "3.3 Counting and Venn Diagrams",
+                "pageNumber": 170,
+                "children": []
+            },
+            {
+                "title": "3.4 A First Word on Probability",
+                "pageNumber": 172,
+                "children": []
+            },
+            {
+                "title": "3.5 A Axioms of Probability",
+                "pageNumber": 179,
+                "children": []
+            },
+            {
+                "title": "3.6  Conditional Probability: Independence",
+                "pageNumber": 188,
+                "children": []
+            },
+            {
+                "title": "3.7 Discrete Random Variables",
+                "pageNumber": 197,
+                "children": []
+            },
+            {
+                "title": "3.8 Summary and Historical Review",
+                "pageNumber": 208,
+                "children": []
+            },
+            {
+                "title": "Supplementary Exercises",
+                "pageNumber": 211,
+                "children": []
+            }
+        ]
+    },
+    {
+        "title": "4. Properties of the Intergers: Mathematical Induction",
+        "pageNumber": 215,
+        "children": [
+            {
+                "title": "4.1 The Well-Ordering Principle: Mathematical Induction",
+                "pageNumber": 215,
+                "children": []
+            },
+            {
+                "title": "4.2 Recursive Definitions",
+                "pageNumber": 232,
+                "children": []
+            },
+            {
+                "title": "4.3 The Division Alorithm: Prime Numbers",
+                "pageNumber": 243,
+                "children": []
+            },
+            {
+                "title": "4.4 The Greatest Common Divisor: The Euclidean Algorithm",
+                "pageNumber": 253,
+                "children": []
+            },
+            {
+                "title": "4.5 The Fundamental Theorem of Arthmetic",
+                "pageNumber": 259,
+                "children": []
+            },
+            {
+                "title": "4.6 Summary and Historical Review",
+                "pageNumber": 264,
+                "children": []
+            },
+            {
+                "title": "Supplementary Exercises",
+                "pageNumber": 267,
+                "children": []
+            }
+        ]
+    },
+    {
+        "title": "5. Relations and Functions",
+        "pageNumber": 269,
+        "children": [
+            {
+                "title": "5.1 Cartesian Products and Relations",
+                "pageNumber": 270,
+                "children": []
+            },
+            {
+                "title": "5.2 Functions: Plain and One-to-one",
+                "pageNumber": 274,
+                "children": []
+            },
+            {
+                "title": "5.3 Onto Functions: Stirling Numbers of the Second Kind",
+                "pageNumber": 282,
+                "children": []
+            },
+            {
+                "title": "5.4  Special Functions",
+                "pageNumber": 289,
+                "children": []
+            },
+            {
+                "title": "5.5 The Pigeonhole Principle",
+                "pageNumber": 295,
+                "children": []
+            },
+            {
+                "title": "5.6 Function Composition and Inverse Functions",
+                "pageNumber": 300,
+                "children": []
+            },
+            {
+                "title": "5.7 Computational Complexity",
+                "pageNumber": 311,
+                "children": []
+            },
+            {
+                "title": "5.8 Analysis of Algorithms",
+                "pageNumber": 316,
+                "children": []
+            },
+            {
+                "title": "5.9 Summary and Historical Review",
+                "pageNumber": 324,
+                "children": []
+            },
+            {
+                "title": "Supplementary Exercises",
+                "pageNumber": 327,
+                "children": []
+            }
+        ]
+    },
+    {
+        "title": "6. Languages: Finite State Machines",
+        "pageNumber": 331,
+        "children": [
+            {
+                "title": "6.1 Language: The Set Theory of Strings",
+                "pageNumber": 331,
+                "children": []
+            },
+            {
+                "title": "6.2 Finite State Machines: A First Encounter",
+                "pageNumber": 341,
+                "children": []
+            },
+            {
+                "title": "6.3 Finite State Machines: A Second Encounter",
+                "pageNumber": 348,
+                "children": []
+            },
+            {
+                "title": "6.4 Summary and Historical Review",
+                "pageNumber": 354,
+                "children": []
+            },
+            {
+                "title": "Supplementary Exercises",
+                "pageNumber": 356,
+                "children": []
+            }
+        ]
+    },
+    {
+        "title": "7. Relations: The Second Time Around",
+        "pageNumber": 359,
+        "children": [
+            {
+                "title": "7.1 Relations: The Second Time Around",
+                "pageNumber": 359,
+                "children": []
+            },
+            {
+                "title": "7.2 Computer Recognition: Zero-One Matrices and Directed Graphs",
+                "pageNumber": 366,
+                "children": []
+            },
+            {
+                "title": "7.3 Partial Orders: Hasse Diagrams",
+                "pageNumber": 378,
+                "children": []
+            },
+            {
+                "title": "7.4 Equivlence Relations and Partitions",
+                "pageNumber": 388,
+                "children": []
+            },
+            {
+                "title": "7.5 Finite State Machines: The Minimization Process",
+                "pageNumber": 393,
+                "children": []
+            },
+            {
+                "title": "7.6 Summary and Historical Review",
+                "pageNumber": 398,
+                "children": []
+            },
+            {
+                "title": "Supplementary Exercises",
+                "pageNumber": 400,
+                "children": []
+            }
+        ]
+    },
+    {
+        "title": "8. The Principle of Inclusion and Exclusion",
+        "pageNumber": 407,
+        "children": [
+            {
+                "title": "8.1 The Principle of Inclusion and Exclusion",
+                "pageNumber": 407,
+                "children": []
+            },
+            {
+                "title": "8.2 Generalizations of the Principle ",
+                "pageNumber": 419,
+                "children": []
+            },
+            {
+                "title": "8.3 Derangements: Nothing is in its right place",
+                "pageNumber": 424,
+                "children": []
+            },
+            {
+                "title": "8.4 Rook Polynomials",
+                "pageNumber": 426,
+                "children": []
+            },
+            {
+                "title": "8.5 Arrangements with Forbidden Positions",
+                "pageNumber": 428,
+                "children": []
+            },
+            {
+                "title": "8.6 Summary and Historical Review",
+                "pageNumber": 433,
+                "children": []
+            },
+            {
+                "title": "Supplementary Exercises",
+                "pageNumber": 435,
+                "children": []
+            }
+        ]
+    },
+    {
+        "title": "9. Generating Functions",
+        "pageNumber": 437,
+        "children": [
+            {
+                "title": "9.1 Introductory Examples",
+                "pageNumber": 437,
+                "children": []
+            },
+            {
+                "title": "9.2 Definition and Examples: Calculational Techniques",
+                "pageNumber": 440,
+                "children": []
+            },
+            {
+                "title": "9.3 Partitions of Integers",
+                "pageNumber": 454,
+                "children": []
+            },
+            {
+                "title": "9.4 The Exponential Generating Function",
+                "pageNumber": 458,
+                "children": []
+            },
+            {
+                "title": "9.5 The Summation Operator",
+                "pageNumber": 462,
+                "children": []
+            },
+            {
+                "title": "9.6 Summary and Historical Review",
+                "pageNumber": 464,
+                "children": []
+            },
+            {
+                "title": "Supplementary Exercises",
+                "pageNumber": 467,
+                "children": []
+            }
+        ]
+    },
+    {
+        "title": "10. Recurrence Relations",
+        "pageNumber": 469,
+        "children": [
+            {
+                "title": "10.1 The First-Order Linear Recurrence Relation",
+                "pageNumber": 469,
+                "children": []
+            },
+            {
+                "title": "10.2 The Second-Order Linear Homogeneous Recurrence Relation with Constant Coefficients",
+                "pageNumber": 478,
+                "children": []
+            },
+            {
+                "title": "10.3 The Nonhomogeneous Recurrence Relation",
+                "pageNumber": 492,
+                "children": []
+            },
+            {
+                "title": "10.4 The Method of Generating Functions",
+                "pageNumber": 504,
+                "children": []
+            },
+            {
+                "title": "10.5 A Special Kind of Nonlinear Recurrence Relation (Optional)",
+                "pageNumber": 509,
+                "children": []
+            },
+            {
+                "title": "10.6 Divide-and-Conquer Alogorithms (Optional)",
+                "pageNumber": 518,
+                "children": []
+            },
+            {
+                "title": "10.7 Summary and Historical Review",
+                "pageNumber": 527,
+                "children": []
+            },
+            {
+                "title": "Supplementary Exercises",
+                "pageNumber": 530,
+                "children": []
+            }
+        ]
+    },
+    {
+        "title": "11. An Introduction to Graph Theory",
+        "pageNumber": 535,
+        "children": [
+            {
+                "title": "11.1 Definitions and Examples",
+                "pageNumber": 535,
+                "children": []
+            },
+            {
+                "title": "11.2 Subgraphs, Complements, and Graph Isomorphism",
+                "pageNumber": 542,
+                "children": []
+            },
+            {
+                "title": "11.3 Vertex Degree: Euler Trails and Circuits",
+                "pageNumber": 552,
+                "children": []
+            },
+            {
+                "title": "11.4 Planar Graphs",
+                "pageNumber": 562,
+                "children": []
+            },
+            {
+                "title": "11.5 Hamilton Paths and Cycles",
+                "pageNumber": 578,
+                "children": []
+            },
+            {
+                "title": "11.6 Graph Coloring and Chromatic Polynomials",
+                "pageNumber": 586,
+                "children": []
+            },
+            {
+                "title": "11.7 Summary and Historical Review",
+                "pageNumber": 595,
+                "children": []
+            },
+            {
+                "title": "Supplementary Exercises",
+                "pageNumber": 598,
+                "children": []
+            }
+        ]
+    },
+    {
+        "title": "12. Trees",
+        "pageNumber": 603,
+        "children": [
+            {
+                "title": "12.1 Definitions, Properties, and Examples",
+                "pageNumber": 603,
+                "children": []
+            },
+            {
+                "title": "12.2 Rooted Trees",
+                "pageNumber": 609,
+                "children": []
+            },
+            {
+                "title": "12.3 Trees and Sorting",
+                "pageNumber": 627,
+                "children": []
+            },
+            {
+                "title": "12.4 Weighted Trees and Prefix Codes",
+                "pageNumber": 631,
+                "children": []
+            },
+            {
+                "title": "12.5 Biconnected Components and Articulation Points",
+                "pageNumber": 637,
+                "children": []
+            },
+            {
+                "title": "12.6 Summary and Historical Review",
+                "pageNumber": 644,
+                "children": []
+            },
+            {
+                "title": "Supplementary Exercises",
+                "pageNumber": 647,
+                "children": []
+            }
+        ]
+    },
+    {
+        "title": "13. Optimization and Matching",
+        "pageNumber": 653,
+        "children": [
+            {
+                "title": "13.1 Dijkstra's Shortest-Path Algorithm",
+                "pageNumber": 653,
+                "children": []
+            },
+            {
+                "title": "13.2 Minimal Spanning Trees: The Algorithms of Kruskal and Prim",
+                "pageNumber": 660,
+                "children": []
+            },
+            {
+                "title": "13.3 Transport Networks: The Max-Flow Min-Cut Theorem",
+                "pageNumber": 666,
+                "children": []
+            },
+            {
+                "title": "13.4 Matching Theory",
+                "pageNumber": 681,
+                "children": []
+            },
+            {
+                "title": "13.5 Summary and Historical Review",
+                "pageNumber": 689,
+                "children": []
+            },
+            {
+                "title": "Supplementary Exercises",
+                "pageNumber": 691,
+                "children": []
+            }
+        ]
+    },
+    {
+        "title": "14. Rings and Modular Arithmetic",
+        "pageNumber": 695,
+        "children": [
+            {
+                "title": "14.1 The Ring Structure: Definition and Examples",
+                "pageNumber": 695,
+                "children": []
+            },
+            {
+                "title": "14.2 Ring Properties and Substructures",
+                "pageNumber": 701,
+                "children": []
+            },
+            {
+                "title": "14.3 The Integers Modulo n",
+                "pageNumber": 708,
+                "children": []
+            },
+            {
+                "title": "14.4 Ring Homomorphisms and Isomorphisms",
+                "pageNumber": 719,
+                "children": []
+            },
+            {
+                "title": "14.5 Summary and Historical Review",
+                "pageNumber": 727,
+                "children": []
+            },
+            {
+                "title": "Supplementary Exercises",
+                "pageNumber": 730,
+                "children": []
+            }
+        ]
+    },
+    {
+        "title": "15. Boolean Algebra and Switching Functions",
+        "pageNumber": 733,
+        "children": [
+            {
+                "title": "15.1 Swtiching Functions: Disjunctive and Conjunctive Normal Forms",
+                "pageNumber": 733,
+                "children": []
+            },
+            {
+                "title": "15.2 Gating Networks: Minimal Sums of Products: Karnaugh Maps",
+                "pageNumber": 741,
+                "children": []
+            },
+            {
+                "title": "15.3 Further Applications: Don't-Care Conditions",
+                "pageNumber": 751,
+                "children": []
+            },
+            {
+                "title": "15.4 The Structure of a Boolean Algebra (Optional)",
+                "pageNumber": 755,
+                "children": []
+            },
+            {
+                "title": "15.5 Summary and Historical Review",
+                "pageNumber": 764,
+                "children": []
+            },
+            {
+                "title": "Supplementary Exercises",
+                "pageNumber": 765,
+                "children": []
+            }
+        ]
+    },
+    {
+        "title": "16. Groups, Coding Theory, and Polya's Method of Enumeration",
+        "pageNumber": 767,
+        "children": [
+            {
+                "title": "16.1 Definition, Examples, and Elementary Properties",
+                "pageNumber": 767,
+                "children": []
+            },
+            {
+                "title": "16.2 Homomorphis,s, Isomorphisms, and Cyclis Groups",
+                "pageNumber": 774,
+                "children": []
+            },
+            {
+                "title": "16.3 Cosets and Lagrange's Theorem",
+                "pageNumber": 779,
+                "children": []
+            },
+            {
+                "title": "16.4 The RSA Cryptosystem (Optional)",
+                "pageNumber": 781,
+                "children": []
+            },
+            {
+                "title": "16.5 Elements of Coding Theory",
+                "pageNumber": 783,
+                "children": []
+            },
+            {
+                "title": "16.6 The Hamming Metric",
+                "pageNumber": 788,
+                "children": []
+            },
+            {
+                "title": "16.7 The Parity-Check and Generator Matrices",
+                "pageNumber": 791,
+                "children": []
+            },
+            {
+                "title": "16.8 Group Codes: Decoding with Coset Leaders",
+                "pageNumber": 795,
+                "children": []
+            },
+            {
+                "title": "16.9 Hamming Matrices",
+                "pageNumber": 799,
+                "children": []
+            },
+            {
+                "title": "16.10 Counting and Equivalence: Burnside's Theorem",
+                "pageNumber": 801,
+                "children": []
+            },
+            {
+                "title": "16.11 The Cycle Index",
+                "pageNumber": 807,
+                "children": []
+            },
+            {
+                "title": "16.12 The Pattern Inventory: Polya's Method of Enumeration",
+                "pageNumber": 811,
+                "children": []
+            },
+            {
+                "title": "16.13 Summary and Historical Review",
+                "pageNumber": 816,
+                "children": []
+            },
+            {
+                "title": "Supplementary Exercises",
+                "pageNumber": 819,
+                "children": []
+            }
+        ]
+    },
+    {
+        "title": "17. Finite Fields and Combinatorial Designs",
+        "pageNumber": 821,
+        "children": [
+            {
+                "title": "17.1 Polynomial Rings",
+                "pageNumber": 821,
+                "children": []
+            },
+            {
+                "title": "17.2 Irreducible Polynimials: Finite Fields",
+                "pageNumber": 828,
+                "children": []
+            },
+            {
+                "title": "17.3 Latin Squares",
+                "pageNumber": 837,
+                "children": []
+            },
+            {
+                "title": "17.4 Finite Geometries and Affine Plane",
+                "pageNumber": 842,
+                "children": []
+            },
+            {
+                "title": "17.5 Block Designs and Projective Planes",
+                "pageNumber": 847,
+                "children": []
+            },
+            {
+                "title": "17.6 Summary and Historical Review",
+                "pageNumber": 852,
+                "children": []
+            },
+            {
+                "title": "Supplementary Exercises",
+                "pageNumber": 854,
+                "children": []
+            }
+        ]
+    },
+    {
+        "title": "A1. Exponential and Logarithmic Functions",
+        "pageNumber": 857,
+        "children": []
+    },
+    {
+        "title": "A2. Matrices, Matrix Operations, and Determinants",
+        "pageNumber": 867,
+        "children": []
+    },
+    {
+        "title": "A3. Countable and Uncountable Sets",
+        "pageNumber": 879,
+        "children": []
+    },
+    {
+        "title": "Solutions of Odd",
+        "pageNumber": 889,
+        "children": [
+            {
+                "title": "Ch1",
+                "pageNumber": 889,
+                "children": []
+            },
+            {
+                "title": "Ch2",
+                "pageNumber": 891,
+                "children": []
+            },
+            {
+                "title": "Ch3",
+                "pageNumber": 901,
+                "children": []
+            },
+            {
+                "title": "Ch4",
+                "pageNumber": 905,
+                "children": []
+            },
+            {
+                "title": "Ch5",
+                "pageNumber": 916,
+                "children": []
+            },
+            {
+                "title": "Ch6",
+                "pageNumber": 925,
+                "children": []
+            },
+            {
+                "title": "Ch7",
+                "pageNumber": 928,
+                "children": []
+            },
+            {
+                "title": "Ch8",
+                "pageNumber": 933,
+                "children": []
+            },
+            {
+                "title": "Ch9",
+                "pageNumber": 935,
+                "children": []
+            },
+            {
+                "title": "Ch10",
+                "pageNumber": 938,
+                "children": []
+            },
+            {
+                "title": "Ch11",
+                "pageNumber": 943,
+                "children": []
+            },
+            {
+                "title": "Ch12",
+                "pageNumber": 952,
+                "children": []
+            },
+            {
+                "title": "Ch13",
+                "pageNumber": 958,
+                "children": []
+            },
+            {
+                "title": "Ch14",
+                "pageNumber": 960,
+                "children": []
+            },
+            {
+                "title": "Ch15",
+                "pageNumber": 965,
+                "children": []
+            },
+            {
+                "title": "Ch16",
+                "pageNumber": 968,
+                "children": []
+            },
+            {
+                "title": "Ch17",
+                "pageNumber": 973,
+                "children": []
+            },
+            {
+                "title": "A1",
+                "pageNumber": 977,
+                "children": []
+            },
+            {
+                "title": "A2",
+                "pageNumber": 978,
+                "children": []
+            },
+            {
+                "title": "A3",
+                "pageNumber": 979,
+                "children": []
+            }
+        ]
+    },
+    {
+        "title": "Index",
+        "pageNumber": 981,
+        "children": []
+    },
+    {
+        "title": "Formulas & Notation2",
+        "pageNumber": 1005,
+        "children": []
+    }
+]

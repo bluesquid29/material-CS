@@ -29,3 +29,7 @@ vs-code 是目前寫程式的主流，安裝教學可參考影片連結 (win 11,
 - [UVA 10050 Hartals](https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=12&page=show_problem&problem=991)
 
 
+## 計算機概論
+
+先說結論，做題才是重點
+
