@@ -25,6 +25,7 @@ B =
 3 & 1 & \color{red}{6} \\
 \end{bmatrix}
 $$
+
 A is symmetric, B is non-symmetric.
 
 Here's a 4×4 matrix example showing symmetric pairs:
@@ -51,7 +52,8 @@ The algorithm checks these pairs:
 
 $$ 
 \begin{array}{c|c}
-\text{Position } [i][j] & \text{Mirror } [n-1-i][n-1-j] \\ \hline 
+\text{Position } [i][j] & \text{Mirror } [n-1-i][n-1-j] \\ 
+\hline 
 [0][0] = 1 & [3][3] = 1 \quad \checkmark \\ 
 [0][1] = 2 & [3][2] = 2 \quad \checkmark \\ 
 [0][2] = 3 & [3][1] = 3 \quad \checkmark \\ 
