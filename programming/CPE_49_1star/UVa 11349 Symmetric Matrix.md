@@ -8,8 +8,6 @@ So we use `long long`
 
 >Symmetric matrix is such a matrix that all elements of it are **non-negative** and symmetric with **relation to the center** of this matrix.
 
-
-
 ## Symmetric Matrix Example:
 
 $$
@@ -17,14 +15,14 @@ A =
 \begin{bmatrix}
 5 & 1 & 3 \\
 2 & 0 & 2 \\
-3 & 1 & 5
+3 & 1 & 5 \\
 \end{bmatrix}
 \quad
 B =
 \begin{bmatrix}
 5 & 1 & 3 \\
 2 & 0 & 2 \\
-3 & 1 & \textcolor{red}{6}
+3 & 1 & \textcolor{red}{6} \\
 \end{bmatrix}
 $$
 A is symmetric, B is non-symmetric.
@@ -42,7 +40,7 @@ $$
 \begin{bmatrix}
 \color{red}{1} & \color{blue}{2} & \color{green}{3} & \color{orange}{4} \\
 \color{purple}{5} & \color{brown}{6} & \color{pink}{7} & \color{cyan}{8} \\
-\color{cyan}{8} & \color{pink}{7} & \color{brown}{6} & \color{purple}{5} \\ \color{orange}{4} & \color{green}{3} & \color{blue}{2} & \color{red}{1} \end{bmatrix} 
+\color{cyan}{8} & \color{pink}{7} & \color{brown}{6} & \color{purple}{5} \\ \color{orange}{4} & \color{green}{3} & \color{blue}{2} & \color{red}{1} \\ \end{bmatrix} 
 $$
 
 ## Mirror Pairs:
