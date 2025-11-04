@@ -22,7 +22,7 @@ B =
 \begin{bmatrix}
 5 & 1 & 3 \\
 2 & 0 & 2 \\
-3 & 1 & \textcolor{red}{6} \\
+3 & 1 & \color{red}{6} \\
 \end{bmatrix}
 $$
 A is symmetric, B is non-symmetric.
@@ -35,19 +35,33 @@ $$
 5 & 6 & 7 & 8 \\
 8 & 7 & 6 & 5 \\
 4 & 3 & 2 & 1 \\
-\end{bmatrix} 
+\end{bmatrix}
 \implies \text{add color} \implies
 \begin{bmatrix}
-\color{red}{1} & \color{blue}{2} & \color{green}{3} & \color{orange}{4} \\
-\color{purple}{5} & \color{brown}{6} & \color{pink}{7} & \color{cyan}{8} \\
-\color{cyan}{8} & \color{pink}{7} & \color{brown}{6} & \color{purple}{5} \\ \color{orange}{4} & \color{green}{3} & \color{blue}{2} & \color{red}{1} \\ \end{bmatrix} 
+\color{red}{1} & \color{white}{2} & \color{green}{3} & \color{yellow}{4} \\
+\color{magenta}{5} & \color{red}{6} & \color{blue}{7} & \color{cyan}{8} \\
+\color{cyan}{8} & \color{blue}{7} & \color{red}{6} & \color{magenta}{5} \\
+\color{yellow}{4} & \color{green}{3} & \color{white}{2} & \color{red}{1} \\
+\end{bmatrix}
 $$
 
 ## Mirror Pairs:
 
 The algorithm checks these pairs:
 
-$$ \begin{array}{c|c} \text{Position [i][j]} & \text{Mirror [n-1-i][n-1-j]} \\ \hline [0][0] = 1 & [3][3] = 1 \quad \checkmark \\ [0][1] = 2 & [3][2] = 2 \quad \checkmark \\ [0][2] = 3 & [3][1] = 3 \quad \checkmark \\ [0][3] = 4 & [3][0] = 4 \quad \checkmark \\ [1][0] = 5 & [2][3] = 5 \quad \checkmark \\ [1][1] = 6 & [2][2] = 6 \quad \checkmark \\ [1][2] = 7 & [2][1] = 7 \quad \checkmark \\ [1][3] = 8 & [2][0] = 8 \quad \checkmark \end{array} $$
+$$ 
+\begin{array}{c|c}
+\text{Position } [i][j] & \text{Mirror } [n-1-i][n-1-j] \\ \hline 
+[0][0] = 1 & [3][3] = 1 \quad \checkmark \\ 
+[0][1] = 2 & [3][2] = 2 \quad \checkmark \\ 
+[0][2] = 3 & [3][1] = 3 \quad \checkmark \\ 
+[0][3] = 4 & [3][0] = 4 \quad \checkmark \\ 
+[1][0] = 5 & [2][3] = 5 \quad \checkmark \\ 
+[1][1] = 6 & [2][2] = 6 \quad \checkmark \\ 
+[1][2] = 7 & [2][1] = 7 \quad \checkmark \\ 
+[1][3] = 8 & [2][0] = 8 \quad \checkmark 
+\end{array}
+$$
 
 ## Non-Symmetric Example:
 
