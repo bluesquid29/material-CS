@@ -1,0 +1,275 @@
+{
+  "main": {
+    "id": "cab74b902d95d77d",
+    "type": "split",
+    "children": [
+      {
+        "id": "78d889ec4bef60ce",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db3ac366d48e0b8a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3_Programming/301_C language/printf, scanf 1.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "printf, scanf 1"
+            }
+          },
+          {
+            "id": "84de9c8aa9a1fe71",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "0_default/003_symbol/LATEX symbols.pdf",
+                "page": 4,
+                "left": -11,
+                "top": 741,
+                "zoom": 1.3292153555661579
+              },
+              "icon": "lucide-file-text",
+              "title": "LATEX symbols"
+            }
+          },
+          {
+            "id": "39b8ad8c8ec276d5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3_Programming/301_C language/CPE_49_1star/UVa 11417 GCD.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "UVa 11417 GCD"
+            }
+          },
+          {
+            "id": "ae4f5c91f2f3fdfe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "programming/Guideline of C,C++.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Guideline of C,C++"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2eb892794148082c",
+    "type": "split",
+    "children": [
+      {
+        "id": "c865f8f7d81121a8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "29f4f92eae009a4c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "82bd7033c649b652",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "color",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "d0a92cc635a4f7e1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 251.5110321044922
+  },
+  "right": {
+    "id": "02b6f6c8e7c9aef5",
+    "type": "split",
+    "children": [
+      {
+        "id": "32beecd6d5d32394",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30e72fd9d2f7c31d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "programming/Guideline of C,C++.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Guideline of C,C++"
+            }
+          },
+          {
+            "id": "e85801fd77884969",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0_default/000_readme/Community Plugin.md",
+                "collapseAll": false,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Community Plugin"
+            }
+          },
+          {
+            "id": "aa3643862878aa44",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "489cea0cc0666436",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "programming/Guideline of C,C++.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Guideline of C,C++"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 339.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "templater-obsidian:Templater": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false,
+      "copilot:Open Copilot Chat": false
+    }
+  },
+  "active": "ae4f5c91f2f3fdfe",
+  "lastOpenFiles": [
+    "README.md",
+    "programming/Guideline of C,C++.md",
+    "programming/CPE_49_1star/UVa 11417 - GCD.md",
+    "3_Programming/301_C language/CPE_49_1star/UVa 11417 GCD.md",
+    "3_Programming/301_C language/CPE_49_1star/UVa 11349 Symmetric Matrix.md",
+    "3_Programming/301_C language/CPE_49_1star/UVa 12019 Doom’s Day Algorithm.md",
+    "2025-11-04.md",
+    "3_Programming/301_C language/CPE_49_1star/UVa 10041 Vito’s Family.md",
+    "6_Calculus/690_Daily Integral/Integral formula.md",
+    "6_Calculus/690_Daily Integral/2025 Oct (easy).md",
+    "4_Discrete Math/410_Thomas Calculus/Ch3/Derivative.md",
+    "4_Discrete Math/410_Thomas Calculus/note 251015.md",
+    "4_Discrete Math/410_Thomas Calculus/news.md",
+    "6_Calculus/123.md",
+    "0_default/003_symbol/LATEX symbols.pdf",
+    "3_Programming/301_C language/Data type.md",
+    "3_Programming/301_C language/CPE_49_1star.md",
+    "3_Programming/301_C language/CPE_49_1star",
+    "3_Programming/301_C language/CPE_49_1star 1.md",
+    "2025-11-03.md",
+    "3_Programming/301_C language/printf, scanf 1.md",
+    "3_Programming/301_C language/跳脫序列、格式碼.md",
+    "2025-10-28.md",
+    "0_default/001_templater/Untitled 1.md",
+    "4_Discrete Math/499_PDF/Maths-Discrete Mathematics & its Applications 8th Ed.pdf",
+    "112 Mid-term.md",
+    "2_note for CS114C/Daily update.md",
+    "2_note for CS114C/更熟悉電腦1.md",
+    "0_default/000_readme/Latex Suite snippet edit.md",
+    "10_NumberTheory",
+    "螢幕擷取畫面 2025-10-20 195454.png",
+    "Untitled 1.base",
+    "Untitled.base",
+    "3_Programming/301_C language/format specifiers.png",
+    "0_default/005_Apps",
+    "0_default/004_LATEX",
+    "0_default/appearance.json",
+    "S__5709828.jpg",
+    "4_Discrete Math/410_Thomas Calculus/Thomas Calculus Early Transcendentals, 15ed.pdf",
+    "Pasted image 20251027144358.png",
+    "Pasted image 20251027144028.png",
+    "Pasted image 20251017234643.png",
+    "2_note for CS114C/201_discrete math/114 Quiz 1 詳解 7b.png",
+    "9_uncategorized/螢幕擷取畫面 2025-10-06 211418.png",
+    "9_uncategorized/Pasted image 20251010183324.png",
+    "402_Discrete Math/p iff q (NAND).jpg"
+  ]
+}

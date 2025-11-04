@@ -1,0 +1,14 @@
+{
+  "blue-topaz-theme@@color-scheme-options": "color-scheme-options-default",
+  "blue-topaz-theme@@background-image-settings-switch": false,
+  "blue-topaz-theme@@background-settings-workplace-background-image": false,
+  "things-style@@fancy-code": false,
+  "things-style@@fancy-highlight": false,
+  "id@@callout-on": false,
+  "id@@headers-one-color": false,
+  "anuppuccin-theme-settings@@anuppuccin-theme-dark": "ctp-mocha-old",
+  "anuppuccin-theme-settings@@anuppuccin-theme-accents": "ctp-accent-blue",
+  "Appearance@@accent@@light": "#5173DA",
+  "things-style@@mobile-black-background": false,
+  "things-style@@active-line": false
+}

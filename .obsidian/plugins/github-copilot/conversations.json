@@ -1,0 +1,41 @@
+{
+  "conversations": [
+    {
+      "id": "1760712010688",
+      "title": "hey",
+      "messages": [
+        {
+          "id": "1760712010688",
+          "content": "hey",
+          "role": "user",
+          "timestamp": 1760712010688
+        },
+        {
+          "id": "chatcmpl-CRfujaiOC5JUa50f9CXJHhnoFfHvC",
+          "content": "Hello! How can I assist you with Obsidian today?",
+          "role": "assistant",
+          "timestamp": 1760712012105
+        },
+        {
+          "id": "1760719026756",
+          "content": "what is my account log in",
+          "role": "user",
+          "timestamp": 1760719026756
+        },
+        {
+          "id": "chatcmpl-CRhjuHN2Hl2WF4GFFoRWd8flD4Vze",
+          "content": "Obsidian doesn't require a specific account login to use the core features of the app. You can use it locally on your device without creating an account. However, if you're using Obsidian Sync or accessing community plugins, you might have created an account on the Obsidian website.\n\nIf you need to log in to the Obsidian website or manage your Obsidian Sync subscription, you can do so by visiting the Obsidian website and using the email and password you registered with. If you've forgotten your password, you can use the \"Forgot password?\" link to reset it.\n\nIf you need help with anything else, feel free to ask!",
+          "role": "assistant",
+          "timestamp": 1760719029556
+        }
+      ],
+      "createdAt": 1760712010688,
+      "updatedAt": 1760719029556,
+      "model": {
+        "label": "GPT-4o",
+        "value": "gpt-4o-2024-08-06"
+      }
+    }
+  ],
+  "activeConversationId": "1760712010688"
+}
