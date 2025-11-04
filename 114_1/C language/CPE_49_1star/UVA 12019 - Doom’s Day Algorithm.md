@@ -1,11 +1,4 @@
-# Guideline
-## The
-
-49. [[#UVA 12019 - Doom’s Day Algorithm]]
-
-# Code
-
-## UVA 12019 - Doom’s Day Algorithm
+## C
 
 ### Code 1
 
@@ -64,12 +57,3 @@ total_days = 6, day = (6 + 6 - 1) % 7 = 4 (Thursday)
 For February 27, 2011: 
 total_days = 31 + 27 = 58, day = (6 + 58 - 1) % 7 = 0 (Sunday)
 ```
-
-
-
-
-
-
-
-
-
