@@ -40,7 +40,30 @@ The version of Dev-C++ and CP-Editor are
 version detected : C90
 ```
 
-This is a really old version, you might face some problems when create the file name that end with `.c`, you should always use `.cpp`, no matter c/c++.
+This is a really old version, you might face some problems when create the file name that end with `.c`, EX:
+
+- `for` loop initial declarations are only allowed in C99 or higher mode
+
+you should always use `.cpp`, no matter c/c++.
+
+## The Important Experience of C
+
+- Check your version before editing
+	- `for` loop initial declarations are only allowed in C99 or higher mode
+- `%d` (and `%lld`, `%f`, etc.) **automatically skip leading whitespace** anyway, but
+	- Use space **BEFORE** `%c` to skip whitespace
+
+## Some useful tips
+
+### Boolean
+
+```c
+int boolean = 1;  // 1 = true, 0 = false
+```
+
+- `1` (or any non-zero) = **true**
+- `0` = **false**
 # Reference
+
 - [How can I know the version of c?](https://stackoverflow.com/questions/36662063/how-can-i-know-the-version-of-c)
 - [how to enable C++11 or C++14 in Dev C++ IDE - Stack Overflow](https://stackoverflow.com/questions/64371274/how-to-enable-c11-or-c14-in-dev-c-ide)
