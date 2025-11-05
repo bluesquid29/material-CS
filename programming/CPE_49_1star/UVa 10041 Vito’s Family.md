@@ -38,6 +38,7 @@ $$
 \text{Find the Min. of } f(x) = \lvert x-a_{1} \rvert +\lvert x-a_{2} \rvert  + \dots + \lvert x-a_{n-1} \rvert + \lvert x-a_{n} \rvert 
 $$
 
+其中陣列必須排序，用**排序演算法**
 
 # Code
 
@@ -105,5 +106,8 @@ int main() {
         
         printf("%d\n", sum);
     }
+    
+    return 0;
+}
 ```
 
