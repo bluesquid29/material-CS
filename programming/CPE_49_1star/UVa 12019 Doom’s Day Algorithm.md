@@ -45,12 +45,6 @@ int main(void) {
 char *day_names[]
 ```
 
-- `while (t--)` means `while (t-- > 0)`, if `t = 5`
-
->runs the loop until `t` is `0` during checking it's value, since `0` is equally to `false` in a logical context.
->
->Because `t--` is the post decremental operator on `t`, the value of it will be modified after the `while` checks it, so it will be -1 in the end. Therefore, the values of `t` inside the loop will be: 4,3,2,1,0.
-
 - The example of day count
 
 ```
