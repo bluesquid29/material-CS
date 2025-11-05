@@ -11,15 +11,10 @@
             "id": "db3ac366d48e0b8a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3_Programming/301_C language/printf, scanf 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "printf, scanf 1"
+              "title": "New tab"
             }
           },
           {
@@ -28,11 +23,11 @@
             "state": {
               "type": "pdf",
               "state": {
-                "file": "0_default/003_symbol/LATEX symbols.pdf",
-                "page": 4,
-                "left": -11,
-                "top": 741,
-                "zoom": 1.3292153555661579
+                "file": "tools/LATEX symbols.pdf",
+                "page": 3,
+                "left": -13,
+                "top": 10,
+                "zoom": 1.2548800892359178
               },
               "icon": "lucide-file-text",
               "title": "LATEX symbols"
@@ -44,13 +39,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/CPE_49_1star/UVa 10041 Vito’s Family.md",
+                "file": "C/Function.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "UVa 10041 Vito’s Family"
+              "title": "Function"
+            }
+          },
+          {
+            "id": "17a6ba8f1bf379ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Powershell/123.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "123"
             }
           },
           {
@@ -142,13 +152,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/CPE_49_1star/UVa 10041 Vito’s Family.md",
+                "file": "C/Function.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of UVa 10041 Vito’s Family"
+              "title": "Outline of Function"
             }
           },
           {
@@ -191,12 +201,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/CPE_49_1star/UVa 10041 Vito’s Family.md",
+                "file": "C/Function.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from UVa 10041 Vito’s Family"
+              "title": "Outgoing links from Function"
             }
           }
         ]
@@ -225,14 +235,31 @@
   },
   "active": "39b8ad8c8ec276d5",
   "lastOpenFiles": [
+    "programming/CPE_49_1star/UVa 10055 Hashmat the Brave Warrior.md",
+    "C/Function.md",
+    "tools/LATEX symbols.pdf",
+    "C",
+    "Powershell/123.md",
     "programming/排序演算法 Sorting algorithm.md",
-    "programming/Guideline of C,C++.md",
     "programming/CPE_49_1star/UVa 10041 Vito’s Family.md",
+    "Powershell",
+    "114_1/C language/ppt_pdf/ch8/slide50.JPG",
+    "114_1/C language/ppt_pdf/ch8/slide18.JPG",
+    "114_1/C language/ppt_pdf/ch8/slide17.JPG",
+    "114_1/C language/ppt_pdf/ch8/slide16.JPG",
+    "114_1/C language/ppt_pdf/ch8/slide15.JPG",
+    "114_1/C language/ppt_pdf/ch8/slide14.JPG",
+    "114_1/C language/ppt_pdf/ch8/slide13.JPG",
+    "114_1/C language/ppt_pdf/ch8/slide12.JPG",
+    "114_1/C language/ppt_pdf/ch8/slide11.JPG",
+    "114_1/C language/ppt_pdf/ch8/slide10.JPG",
+    "114_1/C language/ppt_pdf/ch8",
+    "114_1/C language/ppt_pdf/~$ch8.ppt",
+    "programming/Guideline of C,C++.md",
     "programming/CPE_49_1star/UVa 11417 GCD.md",
     "programming/CPE_49_1star/UVa 12019 Doom’s Day Algorithm.md",
     "programming/CPE_49_1star/UVa 11349 Symmetric Matrix.md",
     "114_1/C language/ppt_pdf/~$ch9.ppt",
-    "114_1/C language/ppt_pdf/~$ch8.ppt",
     "README.md",
     "programming/CPE_49_1star/UVa 11417 - GCD.md",
     "3_Programming/301_C language/CPE_49_1star/UVa 11417 GCD.md",
@@ -251,25 +278,7 @@
     "3_Programming/301_C language/CPE_49_1star.md",
     "3_Programming/301_C language/CPE_49_1star",
     "3_Programming/301_C language/CPE_49_1star 1.md",
-    "2025-11-03.md",
-    "3_Programming/301_C language/printf, scanf 1.md",
-    "3_Programming/301_C language/跳脫序列、格式碼.md",
-    "2025-10-28.md",
     "4_Discrete Math/499_PDF/Maths-Discrete Mathematics & its Applications 8th Ed.pdf",
-    "10_NumberTheory",
-    "螢幕擷取畫面 2025-10-20 195454.png",
-    "Untitled 1.base",
-    "Untitled.base",
-    "3_Programming/301_C language/format specifiers.png",
-    "0_default/005_Apps",
-    "0_default/004_LATEX",
-    "S__5709828.jpg",
-    "Pasted image 20251027144358.png",
-    "Pasted image 20251027144028.png",
-    "Pasted image 20251017234643.png",
-    "2_note for CS114C/201_discrete math/114 Quiz 1 詳解 7b.png",
-    "9_uncategorized/螢幕擷取畫面 2025-10-06 211418.png",
-    "9_uncategorized/Pasted image 20251010183324.png",
-    "402_Discrete Math/p iff q (NAND).jpg"
+    "10_NumberTheory"
   ]
 }
