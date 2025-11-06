@@ -4,7 +4,7 @@
 $$
 \text{abs}(n) = |n| = 
 \begin{cases}
-n, & \text{if } n \geq 0 \\[4pt]
+n, & \text{if } n \geq 0 \\
 -n, & \text{if } n < 0
 \end{cases}
 $$
