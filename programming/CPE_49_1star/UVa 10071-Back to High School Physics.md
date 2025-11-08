@@ -13,7 +13,7 @@
 $$
 \begin{align}
 &v = v_{0} + at \\
-&x = v_{0}t + \frac{1}{2} at^{2}
+&\Delta x = v_{0}t + \frac{1}{2} at^{2}
 \end{align}
 $$
 ## Hints
@@ -22,7 +22,7 @@ $$
 
 $$
 \begin{align}
-x_{2} = v_{0} (2t) + \frac{1}{2}a (2t)^{2} &= 2vt - 2at^{2} + 2at^{2} \\
+\Delta x_{2} = v_{0} (2t) + \frac{1}{2}a (2t)^{2} &= 2vt - 2at^{2} + 2at^{2} \\
 &= 2vt
 \end{align}
 $$

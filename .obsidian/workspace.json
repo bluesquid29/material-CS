@@ -39,13 +39,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "programming/CPE_49_1star/UVa 10071-Back to High School Physics.md",
+                "file": "programming/CPE_49_1star_done/UVa 10170-The Hotel with Infinite Rooms.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "UVa 10071-Back to High School Physics"
+              "title": "UVa 10170-The Hotel with Infinite Rooms"
             }
           },
           {
@@ -54,13 +54,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Powershell/123.md",
-                "mode": "preview",
+                "file": "programming/Guideline of C,C++.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "123"
+              "title": "Guideline of C,C++"
             }
           },
           {
@@ -79,7 +79,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -111,7 +111,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "color",
+                "query": "dev",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -132,7 +132,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -152,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "programming/CPE_49_1star/UVa 10071-Back to High School Physics.md",
+                "file": "programming/Guideline of C,C++.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of UVa 10071-Back to High School Physics"
+              "title": "Outline of Guideline of C,C++"
             }
           },
           {
@@ -201,12 +202,22 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "programming/CPE_49_1star/UVa 10071-Back to High School Physics.md",
+                "file": "programming/Guideline of C,C++.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from UVa 10071-Back to High School Physics"
+              "title": "Outgoing links from Guideline of C,C++"
+            }
+          },
+          {
+            "id": "0fe5f7a1f80c55c2",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "spreadsheet",
+              "title": "Advanced Tables"
             }
           }
         ]
@@ -229,47 +240,47 @@
       "templater-obsidian:Templater": false,
       "pdf-plus:PDF++: Toggle auto-copy": false,
       "pdf-plus:PDF++: Toggle auto-focus": false,
-      "pdf-plus:PDF++: Toggle auto-paste": false,
-      "copilot:Open Copilot Chat": false
+      "pdf-plus:PDF++: Toggle auto-paste": false
     }
   },
-  "active": "39b8ad8c8ec276d5",
+  "active": "17a6ba8f1bf379ad",
   "lastOpenFiles": [
-    "programming/CPE_49_1star_done/UVa 10170-The Hotel with Infinite Rooms.md",
+    "programming/CPE_49_1star/00100.md",
+    "programming/CPE_49_1star/UVa 10170-The Hotel with Infinite Rooms.md",
+    "programming/CPE_49_1star/UVa 10101-Bangla Numbers.md",
+    "programming/CPE_49_1star/UVa 10221-Satellites.md",
     "programming/CPE_49_1star/UVa 10071-Back to High School Physics.md",
+    "programming/CPE_49_1star/UVa 10055-Hashmat the Brave Warrior.md",
+    "programming/CPE_49_1star/UVa 11349-Symmetric Matrix.md",
+    "programming/CPE_49_1star/UVa 11417-GCD.md",
+    "programming/CPE_49_1star/UVa 12019-Doom’s Day Algorithm.md",
+    "programming/CPE_49_1star/UVa 10038-Jolly Jumpers.md",
+    "programming/CPE_49_1star/UVa 10409-Die Game.md",
+    "114_1/C language/ppt_pdf/~$ch9.ppt",
+    "programming/CPE_49_1star/UVa 10041-Vito’s Family.md",
+    "programming/Guideline of C,C++.md",
+    "test.md",
+    "Powershell/123.md",
+    "0_default/000_readme/Appearance Format.md",
+    "0_default/000_readme/Appearance Plugin.md",
+    "0_default/000_readme/How to survive.md",
+    "0_default/000_readme/How to take a note.md",
+    "0_default/000_readme/Latex Suite snippet done.md",
+    "0_default/000_readme/Latex Suite snippet edit.md",
+    "0_default/000_readme/Untitled.md",
+    "0_default/001_templater/Extract Headings of the editing note.md",
+    "C/Function.md",
+    "0_default/000_readme/Latex Suite Guide.md",
+    "README.md",
     "114_1/C language/ppt_pdf/~$ch5.ppt",
     "114_1/C language/ppt_pdf/~$ch4.ppt",
-    "0_default/001_templater/UVa template.md",
-    "programming/CPE_49_1star/UVa 10101-Bangla Numbers.md",
-    "programming/CPE_49_1star/UVa 10041-Vito’s Family.md",
-    "programming/CPE_49_1star/UVa 10055-Hashmat the Brave Warrior.md",
     "programming/CPE_49_1star_done",
-    "Powershell/123.md",
-    "programming/排序演算法 Sorting algorithm.md",
-    "0_default/001_templater/Extract Headings of the editing note.md",
-    "C/scanf.md",
-    "0_default/000_readme/Community Plugin.md",
-    "programming/CPE_49_1star/UVa 12019-Doom’s Day Algorithm.md",
-    "programming/CPE_49_1star/UVa 11417-GCD.md",
-    "programming/CPE_49_1star/UVa 11349-Symmetric Matrix.md",
-    "C/Function.md",
-    "README.md",
-    "0_default/001_templater/Untitled.md",
-    "0_default/005_Apps/AutoHotkey_Dash_.md",
     "0_default/005_Apps",
-    "0_default/004_LATEX/some_idea.md",
     "0_default/004_LATEX",
-    "0_default/003_symbol/LATEX.md",
-    "0_default/003_symbol/Math (typing).md",
     "0_default/003_symbol/LATEX symbols.pdf",
-    "0_default/003_symbol/LATEX for Obsidian Suite.md",
     "0_default/003_symbol",
     "0_default/001_templater",
-    "0_default/000_readme/Untitled.md",
-    "0_default/000_readme/Latex Suite snippet edit.md",
-    "0_default/000_readme/Latex Suite snippet done.md",
     "0_default/appearance.json",
-    "0_default/000_readme",
     "114_1/C language/ppt_pdf/ch8/slide50.JPG",
     "114_1/C language/ppt_pdf/ch8/slide18.JPG",
     "114_1/C language/ppt_pdf/ch8/slide17.JPG",

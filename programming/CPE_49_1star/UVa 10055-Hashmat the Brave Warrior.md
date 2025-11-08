@@ -48,9 +48,10 @@ int abs(int n) {
 int main() {
     long long int a, b;
 
-    while (scanf("%lld", &a) == 1 && scanf("%lld", &b) == 1) {
-        printf("%lld\n", abs(a - b));
-    }
+    while (scanf("%lld %lld", &a, &b) == 2) {
+	    printf("%lld\n", llabs(a - b));
+	}
+
 
     return 0;
 }
